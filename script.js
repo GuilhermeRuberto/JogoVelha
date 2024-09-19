@@ -1,5 +1,4 @@
-
-        const dt = new Date().toLocaleString();
+       const dt = new Date().toLocaleString();
 const jogadas = 0;
 
 document.getElementById("data").innerHTML = dt;
